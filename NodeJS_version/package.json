@@ -1,0 +1,14 @@
+{
+  "name": "sdt-frontend",
+  "version": "1.0.0",
+  "description": "frontend for SDT coursework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
